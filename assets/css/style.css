@@ -170,9 +170,9 @@ h2.subtitle {
 
 /* footer */
 p.copyright {
-	margin-top: 50px;
 	color: #fff;
-	text-align: center;
+    	text-align: center;
+    	font-size: 18px;
 }	
 
 .cloud{
